@@ -17,7 +17,8 @@ Modifications :
 - Surcharge Header 
 - Changement couleur background
 - Changement couleur icones et background icones 
-- Ajout bordure et ombrage 
+- Ajout bordure et ombrage
+- Dynamisme des images 
 
 Hooks et Templates :
 * 'wp_enqueue_scripts'
@@ -32,5 +33,6 @@ Hooks et Templates :
 * Footer HTML ('teluro_child_footer_output')
 * Customizer section : 'teluro_child_footer'
 * Customizer setting : 'teluro_child_footer_text'
+
 
 
